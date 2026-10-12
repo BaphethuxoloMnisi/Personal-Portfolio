@@ -24,23 +24,17 @@ Visit the live website to explore my portfolio:
 
 Add your homepage screenshot here when ready.
 
-<!-- Add your homepage screenshot below -->
-
-<!-- ![Portfolio Homepage](screenshots/homepage.png) -->
 <img width="393" height="852" alt="image" src="https://github.com/user-attachments/assets/3938f434-6260-458e-8dc7-f1cabb75adba" />
 
 
 ### Projects
 
-Add a screenshot of your projects section here when ready.
+<img width="393" height="2526" alt="image" src="https://github.com/user-attachments/assets/6a3dc564-6df7-4eb9-847d-47b6b841942f" />
 
-<!-- ![Portfolio Projects](screenshots/projects.png) -->
 
-### Contact Section
+### Skills Section
 
-Add a screenshot of your contact section here when ready.
-
-<!-- ![Portfolio Contact Section](screenshots/contact.png) -->
+<img width="393" height="2865" alt="image" src="https://github.com/user-attachments/assets/de0a31c0-199f-41b3-95b2-b2d235aaae95" />
 
 ---
 
