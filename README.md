@@ -70,18 +70,18 @@ To view or run the project locally:
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/BaphethuxoloMnisi/Personal-Portfolio.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd YOUR_REPOSITORY_NAME
+   cd Personal-Portfolio
    ```
 
 3. Open `index.html` in your browser.
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` and `YOUR_REPOSITORY_NAME` with your actual repository details.
+Replace `https://github.com/BaphethuxoloMnisi/Personal-Portfolio.git` and `Personal-Portfolio` with your actual repository details.
 
 If the project requires a development server or build tools, follow the relevant setup instructions instead.
 
