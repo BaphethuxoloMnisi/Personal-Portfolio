@@ -27,6 +27,8 @@ Add your homepage screenshot here when ready.
 <!-- Add your homepage screenshot below -->
 
 <!-- ![Portfolio Homepage](screenshots/homepage.png) -->
+<img width="393" height="852" alt="image" src="https://github.com/user-attachments/assets/3938f434-6260-458e-8dc7-f1cabb75adba" />
+
 
 ### Projects
 
